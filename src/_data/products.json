@@ -1,0 +1,110 @@
+[
+  {
+    "id": "rayban-aviator",
+    "name": "Ray-Ban Aviator Classic",
+    "category": "sunglasses",
+    "price": "₹8,999",
+    "image": "rayban-aviator.jpg",
+    "alt": "Ray-Ban Aviator Classic sunglasses with gold frame and green lenses",
+    "description": "The iconic teardrop silhouette worn by legends. UV400 protection, premium glass lenses, and a fit that flatters every face shape.",
+    "featured": true,
+    "badge": "Bestseller",
+    "brand": "Ray-Ban"
+  },
+  {
+    "id": "oakley-radar-ev",
+    "name": "Oakley Radar EV Path",
+    "category": "sunglasses",
+    "price": "₹14,499",
+    "image": "oakley-radar-ev.jpg",
+    "alt": "Oakley Radar EV Path sports sunglasses in black with Prizm lens",
+    "description": "Built for athletes and outdoor enthusiasts. Unobtainium grip, PRIZM lens technology for enhanced contrast and clarity in any light.",
+    "featured": true,
+    "badge": "Sports",
+    "brand": "Oakley"
+  },
+  {
+    "id": "polaroid-premium",
+    "name": "Polaroid Premium Sport",
+    "category": "sunglasses",
+    "price": "₹3,999",
+    "image": "polaroid-premium.jpg",
+    "alt": "Polaroid Premium Sport sunglasses with polarized lenses",
+    "description": "100% polarized lenses eliminate glare from roads, water and glass. Lightweight TR90 frame, ideal for Bangalore's bright summers.",
+    "featured": false,
+    "badge": "Polarized",
+    "brand": "Polaroid"
+  },
+  {
+    "id": "crizal-digital",
+    "name": "Crizal Digital Protection",
+    "category": "eyeglasses",
+    "price": "₹4,999",
+    "image": "crizal-digital.jpg",
+    "alt": "Crizal anti-reflection eyeglasses with blue light protection",
+    "description": "Crizal Prevencia lenses with E-SPF 35 protection. Filters harmful blue light and UV rays for all-day screen users.",
+    "featured": true,
+    "badge": "Blue Light",
+    "brand": "Crizal"
+  },
+  {
+    "id": "titanium-designer",
+    "name": "Titanium Designer Frames",
+    "category": "eyeglasses",
+    "price": "₹6,499",
+    "image": "titanium-frames.jpg",
+    "alt": "Lightweight titanium designer eyeglass frames",
+    "description": "Ultra-lightweight titanium frames weighing under 10g. Hypoallergenic, corrosion-resistant, and shaped for all-day comfort.",
+    "featured": false,
+    "badge": "Lightweight",
+    "brand": "Designer"
+  },
+  {
+    "id": "progressive-varilux",
+    "name": "Varilux Progressive Lenses",
+    "category": "eyeglasses",
+    "price": "₹9,999",
+    "image": "varilux-progressive.jpg",
+    "alt": "Varilux progressive lens eyeglasses for near and far vision",
+    "description": "No-line multifocal lenses with Nanoptix technology. Natural vision at all distances — near, intermediate, and far — in one lens.",
+    "featured": false,
+    "badge": "Progressive",
+    "brand": "Varilux"
+  },
+  {
+    "id": "acuvue-oasys-daily",
+    "name": "Acuvue Oasys 1-Day",
+    "category": "contact-lenses",
+    "price": "₹1,299 / 30 pack",
+    "image": "acuvue-oasys.jpg",
+    "alt": "Acuvue Oasys 1-Day contact lenses pack",
+    "description": "Hydraluxe technology locks in moisture for 16+ hours. Perfect for screen-heavy days, air travel, and Bangalore's air-conditioned offices.",
+    "featured": false,
+    "badge": "Daily",
+    "brand": "Acuvue"
+  },
+  {
+    "id": "freshlook-colorblends",
+    "name": "FreshLook Colorblends",
+    "category": "contact-lenses",
+    "price": "₹799 / pair",
+    "image": "freshlook-colorblends.jpg",
+    "alt": "FreshLook Colorblends colored contact lenses in multiple shades",
+    "description": "3-in-1 colour technology blends three colours for a natural-looking transformation. Available in 12 stunning shades.",
+    "featured": false,
+    "badge": "Colored",
+    "brand": "FreshLook"
+  },
+  {
+    "id": "bausch-lomb-ultra",
+    "name": "Bausch & Lomb ULTRA",
+    "category": "contact-lenses",
+    "price": "₹1,099 / pair",
+    "image": "bausch-lomb-ultra.jpg",
+    "alt": "Bausch and Lomb ULTRA monthly contact lenses",
+    "description": "MoistureSeal technology maintains 95% moisture for a full 16 hours. Monthly replacement schedule with superior oxygen permeability.",
+    "featured": false,
+    "badge": "Monthly",
+    "brand": "Bausch & Lomb"
+  }
+]

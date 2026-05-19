@@ -1,0 +1,25 @@
+{
+  "name": "Naina Optics",
+  "brandName": "PIIXELL by Naina Optics",
+  "tagline": "See the World Clearly",
+  "description": "Bangalore's trusted optical shop since 2014. Premium eyewear from Ray-Ban, Oakley, Crizal, Polaroid and more.",
+  "phone": "+91 77605 42829",
+  "phoneRaw": "917760542829",
+  "whatsapp": "917760542829",
+  "email": "piixell18@gmail.com",
+  "address": "No. 001, Centre Point, Residency Road",
+  "city": "Bangalore",
+  "pincode": "560025",
+  "state": "Karnataka",
+  "fullAddress": "No. 001, Centre Point, Residency Road, Bangalore – 560025, Karnataka",
+  "founded": 2014,
+  "hours": "Monday – Sunday: 10:00 AM – 7:00 PM",
+  "hoursShort": "10 AM – 7 PM, Mon–Sun",
+  "mapEmbedUrl": "",
+  "social": {
+    "facebook": "#",
+    "instagram": "#",
+    "whatsapp": "https://wa.me/917760542829"
+  },
+  "brands": ["Ray-Ban", "Oakley", "Crizal", "Polaroid", "Fastrack", "Titan Eyeplus", "Lenskart", "Vogue Eyewear"]
+}
